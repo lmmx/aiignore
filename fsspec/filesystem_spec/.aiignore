@@ -1,0 +1,16 @@
+.aiignore
+LICENSE
+.github
+.git
+*.css
+*.bat
+*.html
+*.pem
+*.png
+*.yaml
+*.yml
+ci
+.codespellrc
+.coveragerc
+docs/*/conf.py
+cassettes
