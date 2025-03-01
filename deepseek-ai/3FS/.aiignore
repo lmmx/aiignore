@@ -1,0 +1,9 @@
+.aiignore
+.git
+*.lock
+Toml.hpp
+*.png
+*.jpg
+LICENSE
+third_party/
+tests/
